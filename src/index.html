@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0b0c0f">
+    <meta name="description" content="Catálogo público de rituais e regras de conjuração para Ordem Mestre.">
+    <title>Rituais · Ordem Mestre</title>
+    <link rel="icon" href="assets/ordem-logo.png">
+    <link rel="stylesheet" href="styles.css">
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="Ordem Mestre — início">
+          <img src="assets/ordem-logo.png" alt="">
+          <span>ORDEM MESTRE</span>
+        </a>
+        <span class="topbar-note">CATÁLOGO PÚBLICO · LIVRO 1.0</span>
+      </header>
+
+      <main>
+        <section class="hero" aria-labelledby="page-title">
+          <div class="hero-copy">
+            <p class="eyebrow">COMPÊNDIO PARA JOGADORES</p>
+            <h1 id="page-title">Rituais para consultar<br><em>sem interromper a cena.</em></h1>
+            <p class="hero-lede">Uma leitura rápida dos rituais, seus aprimoramentos e das regras que orientam cada conjuração durante a sessão.</p>
+          </div>
+          <div class="hero-stats" aria-label="Resumo do catálogo">
+            <div class="hero-stat"><strong id="ritual-count">—</strong><span>rituais</span></div>
+            <div class="hero-stat"><strong id="rule-count">—</strong><span>regras de conjuração</span></div>
+            <p class="hero-source">Fonte: Ordem Paranormal RPG · Livro de Regras 1.0</p>
+          </div>
+        </section>
+
+        <nav class="tabbar" aria-label="Seções do compêndio" role="tablist">
+          <button id="ritual-tab" class="tab-button is-active" type="button" role="tab" aria-selected="true" aria-controls="ritual-view">Rituais <span id="tab-ritual-count">—</span></button>
+          <button id="conjuration-tab" class="tab-button" type="button" role="tab" aria-selected="false" aria-controls="rules-view">Conjuração <span id="tab-rule-count">—</span></button>
+        </nav>
+
+        <section id="ritual-view" class="tab-panel" role="tabpanel" aria-labelledby="ritual-tab">
+          <div class="toolbar" aria-label="Filtros de rituais">
+            <label class="search-field" for="ritual-search">
+              <span>Buscar no compêndio</span>
+              <input id="ritual-search" type="search" placeholder="Nome, efeito ou palavra-chave" autocomplete="off">
+            </label>
+            <label for="circle-filter">
+              <span>Círculo</span>
+              <select id="circle-filter"><option value="all">Todos</option></select>
+            </label>
+            <label for="element-filter">
+              <span>Elemento</span>
+              <select id="element-filter"><option value="all">Todos</option></select>
+            </label>
+            <button id="clear-filters" class="button button-quiet" type="button">Limpar</button>
+          </div>
+
+          <div class="catalog-layout">
+            <section class="catalog-column" aria-labelledby="catalog-heading">
+              <div class="section-heading">
+                <div>
+                  <p class="eyebrow">ÍNDICE DE RITUAIS</p>
+                  <h2 id="catalog-heading">Escolha uma ficha</h2>
+                </div>
+                <span id="result-count" class="result-count" aria-live="polite">Carregando…</span>
+              </div>
+              <div id="ritual-results" class="ritual-results" role="list" aria-live="polite" aria-busy="true">
+                <p class="loading-state">Abrindo o compêndio…</p>
+              </div>
+            </section>
+
+            <aside id="ritual-detail" class="detail-panel" role="dialog" aria-modal="true" aria-labelledby="detail-title" hidden>
+              <button id="close-detail" class="detail-close" type="button" aria-label="Fechar ficha">×</button>
+              <div id="detail-content"></div>
+            </aside>
+          </div>
+        </section>
+
+        <section id="rules-view" class="tab-panel rules-panel" role="tabpanel" aria-labelledby="conjuration-tab" hidden>
+          <div class="rules-heading">
+            <div>
+              <p class="eyebrow">CONSULTA RÁPIDA</p>
+              <h2>Regras de conjuração</h2>
+            </div>
+            <p>Quando a dúvida aparecer na mesa, comece pela ficha do ritual e use estas notas para conferir o procedimento.</p>
+          </div>
+          <div id="rules-content"></div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <span>ORDEM MESTRE · COMPÊNDIO PÚBLICO</span>
+        <span>Textos e imagens reproduzidos sob autorização do responsável pelo projeto.</span>
+      </footer>
+    </div>
+  </body>
+</html>

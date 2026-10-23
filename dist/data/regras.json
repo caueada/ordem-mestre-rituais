@@ -1,0 +1,316 @@
+[
+  {
+    "id": "circulos-e-custos-de-pe",
+    "titulo": "Círculos e custos de PE",
+    "categoria": "rituais",
+    "resumo": "Rituais do 1º ao 4º círculo custam 1, 3, 6 e 10 PE, respectivamente.",
+    "explicacao": "Rituais do 1º ao 4º círculo custam 1, 3, 6 e 10 PE, respectivamente.",
+    "palavras_chave": [
+      "círculo",
+      "PE"
+    ],
+    "orientacao": "O custo base acompanha o círculo do ritual: primeiro 1 PE, segundo 3 PE, terceiro 6 PE e quarto 10 PE. Antes de conjurar, confirme seu acesso ao círculo e possíveis custos adicionais.",
+    "exemplo_original": "Ex.: um ritual de terceiro círculo exige 6 PE de custo base, salvo modificadores ou habilidades aplicáveis.",
+    "atencao": "Aprimoramentos e custos extras são independentes do custo básico e devem ser conferidos na ficha de ritual.",
+    "pagina_livro": 117,
+    "pagina_pdf": 119,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "ampliado",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "conjurando-rituais",
+    "titulo": "Conjurando rituais",
+    "categoria": "rituais",
+    "resumo": "Conjurar envolve a ação indicada, gasto de PE, componentes e gestos apropriados, com exceções indicadas no livro.",
+    "explicacao": "Conjurar envolve a ação indicada, gasto de PE, componentes e gestos apropriados, com exceções indicadas no livro.",
+    "palavras_chave": [
+      "ritual",
+      "execução"
+    ],
+    "orientacao": "Confira ação, custo de PE, componentes, gestos, alcance, alvo e duração. Caso a execução seja interrompida em condições previstas, resolva a concentração e só então aplique o efeito.",
+    "exemplo_original": "Ex.: alguém imobilizado sem mão livre pode ter problemas para realizar gestos exigidos.",
+    "atencao": "Efeito, aprimoramento e resistência são específicos de cada ritual e pertencem ao Compêndio do app.",
+    "pagina_livro": 119,
+    "pagina_pdf": 121,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "ampliado",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "componentes-ritualisticos",
+    "titulo": "Componentes ritualísticos",
+    "categoria": "rituais",
+    "resumo": "O livro exige manipular componentes do elemento durante a conjuração, exceto nos casos de exceção descritos, como rituais de Medo.",
+    "explicacao": "O livro exige manipular componentes do elemento durante a conjuração, exceto nos casos de exceção descritos, como rituais de Medo.",
+    "palavras_chave": [
+      "componente",
+      "mão livre"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 119,
+    "pagina_pdf": 121,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "concentracao-na-conjuracao",
+    "titulo": "Concentração na conjuração",
+    "categoria": "rituais",
+    "resumo": "Se o conjurador sofrer dano ou enfrentar circunstâncias ruins durante a execução, pode precisar passar em Vontade ou perder a conjuração e os PE.",
+    "explicacao": "Se o conjurador sofrer dano ou enfrentar circunstâncias ruins durante a execução, pode precisar passar em Vontade ou perder a conjuração e os PE.",
+    "palavras_chave": [
+      "Vontade",
+      "teste"
+    ],
+    "orientacao": "Quando o conjurador sofrer dano ou situação perturbadora durante a execução, pode precisar de teste de Vontade. Uma falha pode impedir o efeito e consumir o esforço gasto.",
+    "exemplo_original": "Ex.: um ocultista começa o ritual e sofre um golpe antes de concluir a execução.",
+    "atencao": "Verifique o gatilho e a DT aplicáveis; não trate toda concentração como efeito sustentado.",
+    "pagina_livro": 119,
+    "pagina_pdf": 121,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "ampliado",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "alvo-e-area-de-efeito",
+    "titulo": "Alvo e área de efeito",
+    "categoria": "rituais",
+    "resumo": "Verifique a categoria de alvo, a capacidade de percebê-lo e as geometrias de efeito (cone, cubo, esfera, linha etc.).",
+    "explicacao": "Verifique a categoria de alvo, a capacidade de percebê-lo e as geometrias de efeito (cone, cubo, esfera, linha etc.).",
+    "palavras_chave": [
+      "área",
+      "alvo",
+      "cone",
+      "linha"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 120,
+    "pagina_pdf": 122,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "linha-de-efeito",
+    "titulo": "Linha de efeito",
+    "categoria": "rituais",
+    "resumo": "Obstáculos podem bloquear a origem ou propagação de efeitos de rituais. Consulte as regras de área e linha de efeito.",
+    "explicacao": "Obstáculos podem bloquear a origem ou propagação de efeitos de rituais. Consulte as regras de área e linha de efeito.",
+    "palavras_chave": [
+      "obstáculo",
+      "ritual"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 120,
+    "pagina_pdf": 122,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "duracao-de-rituais",
+    "titulo": "Duração de rituais",
+    "categoria": "rituais",
+    "resumo": "A descrição especifica a duração e se o ritual exige manutenção ou sustentação.",
+    "explicacao": "A descrição especifica a duração e se o ritual exige manutenção ou sustentação.",
+    "palavras_chave": [
+      "sustentado",
+      "cena"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 120,
+    "pagina_pdf": 122,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "resistencia-a-rituais",
+    "titulo": "Resistência a rituais",
+    "categoria": "rituais",
+    "resumo": "Rituais prejudiciais podem permitir testes de Fortitude, Reflexos ou Vontade, alterando ou negando parte do efeito.",
+    "explicacao": "Rituais prejudiciais podem permitir testes de Fortitude, Reflexos ou Vontade, alterando ou negando parte do efeito.",
+    "palavras_chave": [
+      "DT",
+      "reflexos",
+      "fortitude",
+      "Vontade"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 121,
+    "pagina_pdf": 123,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "dt-para-resistir-a-rituais",
+    "titulo": "DT para resistir a rituais",
+    "categoria": "rituais",
+    "resumo": "A DT usa a regra geral de habilidades com Presença como atributo, conforme a seção de Resistência do livro.",
+    "explicacao": "A DT usa a regra geral de habilidades com Presença como atributo, conforme a seção de Resistência do livro.",
+    "palavras_chave": [
+      "DT",
+      "PRE"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 121,
+    "pagina_pdf": 123,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "aprimoramentos-de-rituais",
+    "titulo": "Aprimoramentos de rituais",
+    "categoria": "rituais",
+    "resumo": "O texto de cada ritual especifica modos aprimorados e custos extras, sujeitos a requisitos.",
+    "explicacao": "O texto de cada ritual especifica modos aprimorados e custos extras, sujeitos a requisitos.",
+    "palavras_chave": [
+      "discente",
+      "verdadeiro"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 121,
+    "pagina_pdf": 123,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  },
+  {
+    "id": "rituais-sobrepostos",
+    "titulo": "Rituais sobrepostos",
+    "categoria": "rituais",
+    "resumo": "Consulte os critérios de interação e combinação entre efeitos ritualísticos simultâneos.",
+    "explicacao": "Consulte os critérios de interação e combinação entre efeitos ritualísticos simultâneos.",
+    "palavras_chave": [
+      "sobreposição"
+    ],
+    "orientacao": "Leia a ficha do ritual: execução, custo, gestos, componentes, alvo, duração e resistência.",
+    "atencao": "Os detalhes de um ritual específico devem ser consultados no Compêndio.",
+    "pagina_livro": 121,
+    "pagina_pdf": 123,
+    "fonte": {
+      "obra": "Ordem Paranormal RPG",
+      "edicao": "1.0",
+      "tipo": "resumo_de_base_local_com_curadoria_editorial",
+      "chave": "livro_basico"
+    },
+    "ligacao_app": {
+      "destino": "compendio",
+      "aba": "rituais",
+      "rotulo": "Consultar rituais no Compêndio"
+    },
+    "nivel_detalhe": "guia-editorial",
+    "capitulo_id": "outro-lado"
+  }
+]
